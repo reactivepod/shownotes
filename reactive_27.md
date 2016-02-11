@@ -2,7 +2,7 @@
 
 Kahlil and Henning are back from TopConf in Austria and brought some Linzer torte. Raquel reviews "2015 in review" by Sebastian McKenzie's, creator of Babel.js. A summary of "Simple Made Easy" and grand plans for the Reactive Germany tour.
 
-Keywords: technology, web, javascript, 
+Keywords: technology, web, javascript, babel.js, topconf, refactoring, simple made easy
 
 **Timeline**
 
