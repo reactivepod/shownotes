@@ -9,7 +9,7 @@ Keywords: technology, web, javascript, hyper card, quokka, musical.ly, anchor
  - **00:00:00** Intro
  - **00:00:15** Apple takes on the US gov
  - **00:11:50** Hyper Card
- - **00:17:50** Birthday's and Quokka's
+ - **00:17:50** Birthdays and Quokkas
  - **00:24:27** Practicing respectful, friendly discourse
  - **00:28:57** Is Crockford a jerk?
  - **00:35:22** Writing tests for browser-JS is annoyingly hard
